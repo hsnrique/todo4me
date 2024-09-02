@@ -8,11 +8,32 @@
 import SwiftUI
 
 struct CustomButton: View {
+    
+    let label: String
+    let labelcolor: Color
+    let background: Color
+    let action: () -> Void
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Button {
+            action()
+        } label: {
+            ZStack {
+                RoundedRectangle(cornerRadius: 10)
+                    .foregroundColor(background)
+                 
+                Text(label)
+                    .foregroundColor(labelcolor)
+                    .bold()
+            }
+        }
     }
 }
 
 #Preview {
-    CustomButton()
+    CustomButton(label: "Text", 
+                 labelcolor: .white,
+                 background: .accentColor) {
+        // Action
+    }
 }
