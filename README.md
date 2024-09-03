@@ -1,7 +1,7 @@
 # todo4me
 
-## Next feature
+## Next features
 
-Push notifications <br/>
-Data separator <br/>
-Kanban mobile
+- Push notifications <br/>
+- Data separator <br/>
+- Kanban mobile
