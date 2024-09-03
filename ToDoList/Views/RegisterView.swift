@@ -34,7 +34,7 @@ struct RegisterView: View {
                         labelcolor: .white,
                         background: .mint
                     ) {
-                        
+                        viewModel.register()
                     }
                     .padding()
                 }
