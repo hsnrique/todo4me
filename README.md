@@ -2,6 +2,6 @@
 
 ## Next feature
 
-Push notifications
-Data separator
+Push notifications <br/>
+Data separator <br/>
 Kanban mobile
