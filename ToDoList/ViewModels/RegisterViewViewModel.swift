@@ -31,7 +31,8 @@ class RegisterViewViewModel: ObservableObject {
     }
         
     private func insertUserRecord(id: String) {
-        let newUser = User(id: id,
+        let newUser = User(profilePic: "",
+                           id: id,
                            name: name,
                            email: email,
                            joined: Date().timeIntervalSince1970)

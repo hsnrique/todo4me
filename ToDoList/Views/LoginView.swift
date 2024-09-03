@@ -37,16 +37,19 @@ struct LoginView: View {
                         viewModel.login()
                     }
                     .padding()
-                }
-                .offset(y: -50)
-                // Create account
-                VStack {
-                    Text("New around here?")
                     
-                    NavigationLink("Create an account", destination: RegisterView())
+                    // Create an account
+                        Text("New around here?")
+                        .font(.subheadline)
+                        .foregroundStyle(.gray)
+                        
+                        NavigationLink("Create an account", destination: RegisterView())
+                        .foregroundStyle(Color.accentColor)
+                        .font(.subheadline)
+                    
                 }
+                .offset(y: -100)
             }
-            Spacer()
         }
     }
 }

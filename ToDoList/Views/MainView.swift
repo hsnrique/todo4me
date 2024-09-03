@@ -27,6 +27,7 @@ struct MainView: View {
                 }
             ProfileView()
                 .tabItem {
+                    // maybe next feature "profilePic"
                     Label("Profile", systemImage: "person.circle")
                 }
         }

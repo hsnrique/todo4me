@@ -24,15 +24,20 @@ struct ToDoListView: View {
     var body: some View {
         NavigationView {
             VStack {
-                List(items) { item in
-                    ToDoListItemView(item: item)
-                        .swipeActions{
-                            Button("Delete") {
-                                viewModel.delete(id: item.id)
-                            }
-                            .tint(.red)
-                        }
-                    
+                List {
+                  ForEach(groupedItems.keys.sorted(), id: \.self) { date in
+                      Section(header: Text(dateFormatted(date))) {
+                          ForEach(groupedItems[date] ?? []) { item in
+                              ToDoListItemView(item: item)
+                                  .swipeActions {
+                                      Button("Delete") {
+                                          viewModel.delete(id: item.id)
+                                      }
+                                      .tint(.red)
+                                  }
+                          }
+                      }
+                  }
                 }
                 .listStyle(PlainListStyle())
             }
@@ -50,8 +55,19 @@ struct ToDoListView: View {
             }
         }
     }
+    
+    func dateFormatted(_ date: Date) -> String {
+        return DateFormatter.localizedString(from: date, dateStyle: .medium, timeStyle: .none)
+    }
+    
+    private var groupedItems: [Date: [ToDoListItem]] {
+        Dictionary(grouping: items) { item in
+            Calendar.current.startOfDay(for: Date(timeIntervalSince1970: item.dueDate))
+            
+        }
+    }
 }
 
 #Preview {
-    ToDoListView(userId: "")
+    ToDoListView(userId: "NFQWdZrzgHVGTdBt4zuIqldhhce2")
 }
