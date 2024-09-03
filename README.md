@@ -10,19 +10,19 @@ To Do List for own use purposes.
 
 ## Screenshots
 
-![main](https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.32.58.png)
+<img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.32.58.png" alt="main" width="300"/>
 
-![login](https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.34.26.png)
+<img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.34.26.png" alt="login" width="300"/>
 
-![register](https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.34.34.png)
+<img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.34.34.png" alt="register" width="300"/>
 
-![new item](https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.32.png)
+<img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.32.png" alt="new item" width="300"/>
 
-![profile](https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.13.png)
+<img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.13.png" alt="profile" width="300"/>
 
-![date](https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.41.png)
+<img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.41.png" alt="date" width="300"/>
 
-![hour](https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.53.png)
+<img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.53.png" alt="hour" width="300"/>
 
 enjoy it! 🍻
 
