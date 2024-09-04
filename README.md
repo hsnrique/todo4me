@@ -25,7 +25,7 @@ To Do List for own use purposes.
 </div>
 
 
-enjoy it! 🍻
+enjoy it! 🍻 
 
 ## Follow dev 💻
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hnrique/)
