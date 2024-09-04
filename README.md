@@ -11,22 +11,16 @@ To Do List for own use purposes.
 ## Screenshots
 
 <div style="display: flex">
-  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.32.58.png" alt="main" width="250"/>
-  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.32.58.png" alt="main two" width="250"/>
-</div>
-<div style="display: flex">
-  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.34.26.png" alt="login" width="250"/>
-  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.34.34.png" alt="register" width="250"/>
+  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.32.58.png" alt="main" width="200"/>
+  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.59.55.png" alt="main two" width="200"/>
+  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.34.26.png" alt="login" width="200"/>
+  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.34.34.png" alt="register" width="200"/>
 </div>
 
 <div style="display: flex">
-  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.32.png" alt="new item" width="250"/>
-  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.13.png" alt="profile" width="250"/>
-
-</div>
-
-<div style="display: flex">
-  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.41.png" alt="date" width="250"/>
+  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.32.png" alt="new item" width="200"/>
+  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.13.png" alt="profile" width="200"/>
+  <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.41.png" alt="date" width="200"/>
   <img src="https://github.com/hsnrique/todo4me/blob/main/screeshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-03%20at%2020.33.53.png" alt="hour" width="200"/>
 </div>
 
